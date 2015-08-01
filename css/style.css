@@ -1,5 +1,5 @@
 body {
-   font-family: Georgia;
+   font-family: 'Roboto', sans-serif;
 }
 
 span {
@@ -8,13 +8,18 @@ span {
 }
 
 h1 {
-   height: 400px;
+   height: 350px;
    width: 100%;
    background-color: #acc4ce;
-   font-family: Georgia;
-   margin: none;
-   padding-top: 20px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: lighter;
+   padding-top: 15px;
    font-size: 4em;
    text-align: right;
+   margin: none;
 }
 
+li {
+   list-style-type: none;
+   counter-reset: ol-counter;
+}
