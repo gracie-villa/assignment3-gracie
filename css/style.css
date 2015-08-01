@@ -11,8 +11,9 @@ body {
 span {
    text-align: left;
    font-size: 6rem;
-   letter-spacing: 1rem;
+   letter-spacing: 1.1rem;
    line-height: 1em;
+   padding:10px;
 }
 
 h1 {
@@ -36,5 +37,5 @@ li {
 }
 
 nav {
-   float:right;
+position: ;
 }
