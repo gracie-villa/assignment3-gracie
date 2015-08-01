@@ -4,31 +4,29 @@ body {
    line-height: 2.5em;
    text-align: right;
    border: solid #3fe694;
-   border-right: none;
-   border-bottom: none;
    border-width: 2px;
 }
 
 
 span {
    text-align: left;
-   font-size: 12rem;
+   font-size: 6rem;
    letter-spacing: 1rem;
    line-height: 1em;
 }
 
 h1 {
-   height: 350px;
-   width: 100%;
+   height: 600px;
+   width: 50%;
    background-color: #acc4ce;
    vertical-align: baseline;
    font-family: 'Roboto', sans-serif;
    font-weight: lighter;
    padding-top: 15px;
-   font-size: 3em;
-   text-align: right;
-   margin: none;
-   letter-spacing: .5em;
+   font-size: 2em;
+   text-align: left;
+   margin-top: 200px;
+   margin-bottom: 200px;
 }
 
 li {
@@ -37,3 +35,6 @@ li {
    letter-spacing: .5em;
 }
 
+nav {
+   float:right;
+}
