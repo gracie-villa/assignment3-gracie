@@ -1,9 +1,19 @@
 html {
    background-color: #acc4ce;
-   opacity: .5;
 }
 
+body {
+   font-family: Georgia;
+}
 
-
+h1 {
+   height: 300px;
+   width: 100%;
+   background-color: #acc4ce;
+   font-family: Georgia;
+   text-align: center;
+   padding-top: 200px;
+   font-size: 4em;
+}
 
 
