@@ -1,9 +1,14 @@
+
 body {
    font-family: 'Roboto', sans-serif;
    line-height: 2.5em;
    text-align: right;
-
+   border: solid #3fe694;
+   border-right: none;
+   border-bottom: none;
+   border-width: 2px;
 }
+
 
 span {
    text-align: left;
@@ -29,4 +34,6 @@ h1 {
 li {
    list-style-type: none;
    counter-reset: ol-counter;
+   letter-spacing: .5em;
 }
+
