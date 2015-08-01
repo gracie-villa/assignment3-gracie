@@ -1,22 +1,29 @@
 body {
    font-family: 'Roboto', sans-serif;
+   line-height: 2.5em;
+   text-align: right;
+
 }
 
 span {
    text-align: left;
    font-size: 12rem;
+   letter-spacing: 1rem;
+   line-height: 1em;
 }
 
 h1 {
    height: 350px;
    width: 100%;
    background-color: #acc4ce;
+   vertical-align: baseline;
    font-family: 'Roboto', sans-serif;
    font-weight: lighter;
    padding-top: 15px;
-   font-size: 4em;
+   font-size: 3em;
    text-align: right;
    margin: none;
+   letter-spacing: .5em;
 }
 
 li {
