@@ -3,7 +3,7 @@ body {
    font-family: 'Roboto', sans-serif;
    line-height: 2.5em;
    text-align: right;
-   border: solid #3fe694;
+   border-right: solid #3fe694;
    border-width: 2px;
 }
 
@@ -17,17 +17,17 @@ span {
 }
 
 h1 {
-   height: 600px;
+   height: 450px;
    width: 50%;
    background-color: #acc4ce;
-   vertical-align: baseline;
    font-family: 'Roboto', sans-serif;
    font-weight: lighter;
    padding-top: 15px;
    font-size: 2em;
    text-align: left;
-   margin-top: 200px;
-   margin-bottom: 200px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   line-height: 100px;
 }
 
 li {
@@ -36,6 +36,9 @@ li {
    letter-spacing: .5em;
 }
 
-nav {
-position: ;
+div {
+   top:110px;
+   right:10px;
+   position:fixed;
+
 }
