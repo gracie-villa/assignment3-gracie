@@ -58,8 +58,8 @@ li:hover {
 
 #good {
    color: black;
-   font-size: 1em;
-   letter-spacing: .5em;
+   font-size: 2em;
+   letter-spacing: 0;
    font-family: 'Pacifico', cursive;
 }
 
