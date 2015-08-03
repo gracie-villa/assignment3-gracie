@@ -65,13 +65,26 @@ li:hover {
 }
 
 p {
-   top:450px;
+   top:430px;
    right:20px;
    position:fixed;
-   width:40%;
+   width: 38%;
    line-height: 20px;
 }
 
-#innovative-header {
+h3 {
+   top:400px;
+   right:20px;
+   position:fixed;
+   width: 50%;
+   font-weight: 400;
+   line-height: 15px;
+}
 
+#innovative-header {
+}
+
+a[href] {
+   text-decoration: none;
+   color: black;
 }
