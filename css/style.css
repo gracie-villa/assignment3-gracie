@@ -51,4 +51,11 @@ li:hover {
    color: #3fe694;
    font-size: 1.3em;
    letter-spacing: .75rem;
+   cursor: pointer;
+}
+
+#good {
+   color: black;
+   font-size: 1em;
+   letter-spacing: .5em;
 }
