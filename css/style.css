@@ -13,6 +13,7 @@ span {
    letter-spacing: 1.1rem;
    line-height: 1em;
    padding-left:10px;
+   font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -35,16 +36,17 @@ li {
 
 div {
    top:98px;
-   right:30px;
+   right:20px;
    position:fixed;
 }
 
 
 #ten {
-   padding-left: 16px;
+   padding-left: 17px;
    font-size: 1em;
    letter-spacing: .1em;
    line-height: 8px;
+   font-family: 'Pacifico', cursive;
 }
 
 li:hover {
@@ -58,4 +60,6 @@ li:hover {
    color: black;
    font-size: 1em;
    letter-spacing: .5em;
+   font-family: 'Pacifico', cursive;
 }
+
