@@ -64,3 +64,11 @@ li:hover {
    padding-right: 10px;
 }
 
+p {
+   top:450px;
+   right:20px;
+   position:fixed;
+   width:40%;
+   line-height: 20px;
+}
+
