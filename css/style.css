@@ -4,9 +4,8 @@ body {
    line-height: 2.5em;
    text-align: right;
    border-right: solid #3fe694;
-   border-width: 2px;
+   border-width: 6px;
 }
-
 
 span {
    text-align: left;
@@ -36,14 +35,16 @@ li {
 
 div {
    top:110px;
-   right:10px;
+   right:30px;
    position:fixed;
 }
 
 
 #ten {
-   padding-left: 17px;
+   padding-left: 16px;
    font-size: 1em;
    letter-spacing: .1em;
    line-height: 8px;
 }
+
+
