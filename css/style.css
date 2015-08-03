@@ -16,6 +16,7 @@ span {
    font-family: 'Roboto', sans-serif;
 }
 
+
 h1 {
    height: 450px;
    width: 50%;
@@ -88,4 +89,7 @@ a[href] {
 
 a:hover {
    color: #3fe694;
+   background-color: white;
 }
+
+
