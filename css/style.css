@@ -27,7 +27,6 @@ h1 {
    text-align: left;
    margin-top: 100px;
    margin-bottom: 100px;
-   padding-left: -10px;
 }
 
 li {
@@ -92,8 +91,6 @@ a:hover {
    color: #3fe694;
    background-color: white;
    border-radius: 50%;
-   background-position:relative;
-   left: 50px;
 }
 
 
